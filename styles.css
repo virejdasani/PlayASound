@@ -1,0 +1,44 @@
+head,
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: rgb(47, 47, 47);
+    color: white;
+}
+
+#playButton {
+    background-color: #419e44;
+    border: none;
+    color: white;
+    padding: 8px 28px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 6px;
+    transition-duration: 0.4s;
+}
+
+#playButton:hover {
+    background-color: #347c38;
+}
+
+#title {
+    font-size: 1.5rem;
+}
+
+#soundPlayed {
+    font-size: medium;
+}
+
+a:link,
+a:visited {
+    color: rgb(119, 153, 244);
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:hover {
+    color: rgb(78, 125, 255);
+}
