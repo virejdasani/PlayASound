@@ -1,15 +1,21 @@
 {
     "manifest_version": 2,
-  
+
     "name": "Play A Sound",
     "description": "This extension will play a sound so you can check if your audio works!",
     "version": "1.0",
-  
+
     "browser_action": {
-     "default_icon": "assets/icon.png",
-     "default_popup": "popup.html"
+        "default_icon": "assets/icon.png",
+        "default_popup": "popup.html"
     },
-    "permissions": [
-     "activeTab"
-     ]
-  }
+    "commands": {
+        "_execute_browser_action": {
+            "suggested_key": {
+                "default": "Ctrl+Shift+A",
+                "mac": "MacCtrl+Shift+A"
+            },
+            "description": "Opens hello.html"
+        }
+    }
+}

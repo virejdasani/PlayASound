@@ -17,7 +17,7 @@ document.getElementById("playButton").addEventListener('click', function () {
     playSound.play()
     
     // Show "Sound Played" text
-    setTimeout(soundPlayed, 4000)
+    setTimeout(soundPlayed, 3000)
 })
 
 function soundPlayed() {
