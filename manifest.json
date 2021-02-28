@@ -15,7 +15,7 @@
                 "default": "Ctrl+Shift+A",
                 "mac": "MacCtrl+Shift+A"
             },
-            "description": "Opens hello.html"
+            "description": "Opens popup.html"
         }
     }
 }
