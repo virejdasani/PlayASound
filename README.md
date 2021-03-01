@@ -1,6 +1,6 @@
 # Play A Sound - A Chrome extension
 
-# [Download from here](https://chrome.google.com/webstore/detail/play-a-sound/lophbbmejgjiindjndmnanmepnnokldm/related?hl=en&authuser=0)
+# [Download from here](https://chrome.google.com/webstore/detail/play-a-sound/lophbbmejgjiindjndmnanmepnnokldm/)
 
 ![PlayASoundBanner](https://github.com/virejdasani/PlayASound/blob/master/assets/storeAssets/promo-tiles/banner.png?raw=true)
 
