@@ -1,4 +1,4 @@
-# Play A Sound - A Chrome extension
+# Play A Sound - A browser extension
 
 ## [Download](https://chrome.google.com/webstore/detail/play-a-sound/lophbbmejgjiindjndmnanmepnnokldm/) for Chrome
 ## [Download](https://addons.mozilla.org/en-US/firefox/addon/virej-dasani/) for Firefox
